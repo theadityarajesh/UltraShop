@@ -1,4 +1,8 @@
 # UltraShop
 
-UltraShop is an API that will go to multiple shopping websites and find results for any object you want to buy. 
-Including Amazon, Ebay, and Etsy, it pulls 6 products from each site and lists them out with the price and image links.
+A small Java program that searches Amazon, eBay, and Etsy for a product and prints the
+first six results from each site, with prices and image links. It uses Selenium with
+ChromeDriver, with one class per site.
+
+Written in 2022 and no longer maintained. The sites have changed since then, so the
+scrapers likely need updating to work.
